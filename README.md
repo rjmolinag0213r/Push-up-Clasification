@@ -19,8 +19,9 @@ This project uses **MediaPipe** and **OpenCV** to perform real-time pose estimat
 - NumPy 📊
 - Google Colab (for development and testing)
 
-## 📁 Project Structure
-
+## Data Set
+- Workout/Exercises Video from Kaggle
+- Real-time Implentation to capture the angles
 
 ## ⚙️ How It Works
 
@@ -30,5 +31,9 @@ This project uses **MediaPipe** and **OpenCV** to perform real-time pose estimat
 4. **Calculate Angles**: Measure key joint angles from pose landmarks.
 5. **Classify Pose**: Based on heuristic rules, determine pose state.
 6. **Visualize**: Annotate video frames with detected pose and angles.
+## Citation
+https://bleedaiacademy.com/introduction-to-pose-detection-and-basic-pose-classification/
+https://www.kaggle.com/datasets/hasyimabdillah/workoutfitness-video/data?select=push-up
 
 ## 💻 Getting Started
+
