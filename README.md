@@ -23,6 +23,19 @@ This project uses **MediaPipe** and **OpenCV** to perform real-time pose estimat
 - Workout/Exercises Video from Kaggle
 - Real-time Implentation to capture the angles
 
+## ✅ Example Use Cases
+Fitness form correction (e.g., check elbow angle in a push-up)
+Real-time posture tracking
+Physical therapy applications
+
+## 🚀 How to Run
+Clone this repository.
+Open the notebook ML_Final_Project.ipynb.
+Run all the cells in order.
+The system will access the camera (or video input), detect pose landmarks, and calculate angles.
+
+
+
 ## ⚙️ How It Works
 
 1. **Capture Video Input**: From USB or webcam.
